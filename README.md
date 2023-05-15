@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+#Dependencies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1) React: React is a JavaScript library for building user interfaces. It allows you to create reusable UI components and efficiently manage the state of your application.
 
-## Available Scripts
+2) react-dom: react-dom is a package that serves as the entry point to interact with the DOM (Document Object Model) using React. It provides methods for rendering React components into the DOM and handling events.
 
-In the project directory, you can run:
+3) Axios: Axios is a popular JavaScript library used for making HTTP requests from the browser or Node.js. It provides a simple and elegant API for sending and receiving HTTP requests and supports features like promise-based responses, interceptors, and request cancellation.
 
-### `npm start`
+4) FileSaver.js: FileSaver.js is a library that enables you to save files on the client-side. It provides a convenient way to create and download files directly from the browser, allowing you to generate files dynamically and save them locally.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5) Chart.js: Chart.js is a JavaScript library for creating responsive and interactive charts. It provides a wide range of chart types, including bar charts, line charts, pie charts, and more. Chart.js is highly customizable and supports features like tooltips, legends, animations, and responsive design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+These dependencies are commonly used in React projects to handle UI rendering, data fetching, file manipulation, and chart visualization.
