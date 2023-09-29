@@ -54,24 +54,17 @@ To run this application locally, follow these steps:
 
 
 ## Usage
-Using the Word Frequency Histogram web application is easy:
-
-Open the application through the provided demo link or run it locally as described in the installation instructions.
-
-You'll see an input area where you can enter or paste the text you want to analyze.
-
-Click the "Submit" button to initiate the word frequency analysis.
-
-The application will process the text and display the top 20 most frequent words in a histogram.
+1. Using the Word Frequency Histogram web application is easy:
+2. Open the application through the provided demo link or run it locally as described in the installation instructions.
+3. You'll see an input area where you can enter or paste the text you want to analyze.
+4. Click the "Submit" button to initiate the word frequency analysis.
+5. The application will process the text and display the top 20 most frequent words in a histogram.
 
 ## Export Data 
-You can export the word frequency data as a CSV file:
-
-After analyzing the text and viewing the histogram, click the "Export" button.
-
-The application will generate a CSV file containing word-frequency pairs.
-
-Save the CSV file to your local machine.
+1. You can export the word frequency data as a CSV file:
+2. After analyzing the text and viewing the histogram, click the "Export" button.
+3. The application will generate a CSV file containing word-frequency pairs.
+4. Save the CSV file to your local machine.
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute.
